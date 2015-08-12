@@ -1,8 +1,7 @@
 ### Place information about your pack version here.
 ---
 name: cepstral
-description: cepstral
-version: 0.0.1
-author: jfryman
-email: jfryman@FryBook
-
+description: Cepstral integration pack
+version: 0.1.0
+author: James Fryman
+email: james@fryman.io
